@@ -1,10 +1,10 @@
-# Simple Image Optimizer
+# Simple Image Best
 
 COOL project provides a basic image optimization tool using Python and Pillow and is developed as a demo by Softinator.
 
 ## Usage
 
-1. Install requirements: `pip install -r requirements.txt`
+1. Install this: `pip install -r requirements.txt`
 2. Run the script: `python image_optimizer.py <input_image> <output_image> <quality>`
 
 *  **Example:** `python image_optimizer.py landscape.jpg optimized.jpg 80`
