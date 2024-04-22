@@ -1,6 +1,6 @@
 # Simple Image Optimizer
 
-This project provides a basic image optimization tool using Python and Pillow and is developed as a demo by Softinator.
+COOL project provides a basic image optimization tool using Python and Pillow and is developed as a demo by Softinator.
 
 ## Usage
 
